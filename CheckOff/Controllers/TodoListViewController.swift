@@ -1,6 +1,6 @@
 //
 //  TodoListViewController.swift
-//  Todoey
+//  CheckOff
 //
 //  Created by Edward Hu on 8/26/18.
 //  Copyright © 2018 Edward Hu. All rights reserved.
@@ -102,7 +102,7 @@ class TodoListViewController: SwipeTableViewController {
         
         var textField = UITextField()
         
-        let alert = UIAlertController(title: "Add New Todoey Item", message: "", preferredStyle: .alert)
+        let alert = UIAlertController(title: "Add New CheckOff Item", message: "", preferredStyle: .alert)
         
         let action = UIAlertAction(title: "Add Item", style: .default) { (action) in
             //what happens after use clicks add item alert action

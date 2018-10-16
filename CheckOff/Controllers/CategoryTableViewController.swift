@@ -1,6 +1,6 @@
 //
 //  CategoryTableViewController.swift
-//  Todoey
+//  CheckOff
 //
 //  Created by Edward Hu on 8/26/18.
 //  Copyright © 2018 Edward Hu. All rights reserved.
@@ -101,7 +101,7 @@ class CategoryTableViewController: SwipeTableViewController {
     @IBAction func addButtonPressed(_ sender: UIBarButtonItem) {
         var textField = UITextField()
         
-        let alert = UIAlertController(title: "Add New Todoey Category", message: "", preferredStyle: .alert)
+        let alert = UIAlertController(title: "Add New CheckOff Category", message: "", preferredStyle: .alert)
         
         let action = UIAlertAction(title: "Add Category", style: .default) { (action) in
             //what happens after use clicks add item alert action

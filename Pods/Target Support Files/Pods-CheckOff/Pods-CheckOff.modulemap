@@ -1,0 +1,6 @@
+framework module Pods_CheckOff {
+  umbrella header "Pods-CheckOff-umbrella.h"
+
+  export *
+  module * { export * }
+}

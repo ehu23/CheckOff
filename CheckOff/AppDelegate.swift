@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Todoey
+//  CheckOff
 //
 //  Created by Edward Hu on 8/26/18.
 //  Copyright © 2018 Edward Hu. All rights reserved.
