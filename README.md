@@ -16,3 +16,7 @@ Future Updates:
 2. Have a way to switch between morning and night
 3. Implement an alarm or some method to incorporate setting sleep schedules.
 4. Develop a more user interactive methodology for sleeping and waking.
+
+Local Testing:
+1. Remember to 'pod install'
+2. Open the .xcworkspace file that is generated, not the .xcodeproj file.
