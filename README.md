@@ -5,7 +5,7 @@ Note: This app implemented for Swift 4.1 and Xcode 9!!! Beware, Xcode and Swift 
 Also note: This is currently NOT on the app store.
 
 Current features:
-1. Customizable todo list categories, which each category containing their own separate list.
+1. User customizable categories, each category containing their own separate list.
 2. swipe-to-delete gesture and checkmarking
 3. Automatically generated gradients across each page of rows
 4. Alert/event generation for user inputs
@@ -20,3 +20,4 @@ Future Updates:
 Local Testing:
 1. Remember to 'pod install'
 2. Open the .xcworkspace file that is generated, not the .xcodeproj file.
+3. Make sure you are using the Xcode and Swift versions listed above and nothing higher!
